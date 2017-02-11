@@ -1,4 +1,4 @@
-package main
+package mygoutils
 
 import (
 	"encoding/json"
